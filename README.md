@@ -1,1 +1,2 @@
 # CryptographicMethods
+This repository serves as a platform for my university exercises related to the discipline of “Cryptographic Methods for Information Protection.” In this academic context, we explore various cryptographic techniques and algorithms used to secure sensitive information, ensuring its confidentiality, integrity, and authenticity.
